@@ -1,2 +1,2 @@
 # lab-js
-Test everything about modern javascript 
+Testing everything about modern JavaScript 
