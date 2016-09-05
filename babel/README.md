@@ -1,8 +1,8 @@
-## Installation Babel-Cli 
+## Installation Babel
 ```sh 
 $ npm install babel-cli babel-preset-es2015 --save-dev
 ```
-## Ussage
+## Usage
  edit package.json
 ```js
   "scripts": {
