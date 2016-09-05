@@ -15,5 +15,5 @@ $ npm install babel-cli babel-preset-es2015 --save-dev
 
  and run command
 ```sh
-$ npm run buil
+$ npm run build
 ```
