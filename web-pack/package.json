@@ -1,0 +1,17 @@
+{
+  "name": "web-pack",
+  "version": "1.0.0",
+  "description": "basic of web pack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "CodeCoo",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
